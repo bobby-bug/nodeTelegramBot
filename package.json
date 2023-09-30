@@ -1,0 +1,23 @@
+{
+  "name": "nodeTelegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expres": "0.0.5",
+    "express": "^4.17.1",
+    "firebase": "^9.1.3",
+    "firebase-admin": "^10.0.0",
+    "firebase-functions": "^3.15.7",
+    "handlebars": "^4.7.7",
+    "hbs": "^4.1.2",
+    "telegraf": "^4.4.2"
+  }
+}

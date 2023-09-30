@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "software-hiring-bot",
+  "private_key_id": "bf14b866b356a681ea34ff662d3d7d0179bf944a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmue19++lUMp7j\nLzrDWLjpQTapsCdxDs3cdl0vD4wRIgYqh7UCn+v5WdyIBVfoggmHQJn8BtGz8fkd\nYEhLHK2R5+MeRCL0ctVdUS5JJYeDq7D/fP16s3BUxf0jibzSIXZzylp3nviFiRjE\nrJL7drphaw5q36guPA74vBi1C/SPmrdzfasMxdmOOVdAFy3enuI32s9icl/FWAog\n720TN+09qOoPlmigOkvfFDcbapfo9NUJvfSCc3yeNxHaSjCMT+u7lrbOt+UBVKku\n8niWKjOVDoDfdTbcbUJ7WPengXzCE1Up5mt+YmcUcsTTH8JnMHLKdi2uDLtDHrj8\nn92iHdxBAgMBAAECggEAI9QVvLqbWCwup8yY+KzCw+FvQUTpHOsdAxDuknPpWi8x\nGwehtugt+h48/YAEdaMoMAgKbzX5740CxzTPJFEL3axyyqjCyDw7LLwK0c4+UmXd\nefHeuPUBoT4Q2Ye6a3+kaFqmWUlwx6WADJe3WFGZ2OB8LyxUBGeEoiAtwQ5KJme0\nFFo4aJLm1rRNFHXT4AxiQdLCYSLh+JWX9Z5U8eB/3DcnrObn8oWGILgVRPig79gF\nGYq7fkTt62+BGuYH4/SXWf7vSJ/L217php0drShfng0fH+rYJcJp4ucj/ZSVv3K7\n6pJ9X9x4Yk/TQTgCkRDIZKqcuc5P19fmkEVfm4aB5wKBgQDrQPEkalqjBm4UDLNk\nQAccKo4ehMCvU0/lTEAkJN+I7h6+/Z8rXokLd/2sfqVaWa/ZxltwcjqIIzxTigtF\nXNTmcczvRD510APSrUTA1gKUgE+baC7w4lNsz6DIGdoXObqCRYQ7RYh4N/0T+OnI\n3awsg0OIPeJVZ5Gj+1rMwKqcawKBgQC1betsw0cYp3TQsCbATk7giqZiEb1ysEwG\ntQhhOKC5XhJ7VxC3rpop52OBHR9K4AE1XadxjL0HH6h44xRcQfLy6yJAnBiFvREq\nKseIigfsniAYpLWQDC1YZ762naFfu8MEnqE/E10KnN8p1KJ6nODVhna9iJ0Hwo/d\naBTs8ivVAwKBgAo2ZoF7MHYVSGAMcRkwAl8BpevDPY4e4sAEgGBRTXbnR2RpJCjA\n0NgznEqJsOnsLMsaZkvKWaohRXQm8PhQ4FkkpY3Ze5CnuBLEPNDWOYRy0YHgkvEY\nEiEOHl+xZ5tMgUE4fVYJXbRCUfU1AAkdPmUsSZk3foTQmyzwM2/iCUYDAoGBAJYz\nGeRBBmryt1LNgkdSjRp3rqch6KU6LraeyQEz0Ful9ccGnWBzvE1UspwBcBacvGNh\n1W28BgIPw3nRBNob/vX8k67Ji8OscrlmESqIm2bYwdmlAmruqdu2h7zHYwHOf/Uj\nHnsJnM1ccaQ/1QONPNWJLGRc5SO3f0LdF/XRx1fhAoGBAIGwkHdAPYFOe5fIB3qI\ni/Jh909AmOFTZwtiRzPhhO7xuX/hwJ2P+4GLchlWLPqY0nRnZoY6IxdJ2gn4mfiJ\nIYvXe0Z/Z/42l9ehYcm/IrkBprd2DGzj1c7XQEEPvj19U8QqixMIcPH6pZ1ftxLU\nBk8k+wBxjys1pVFuin91ekLm\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ifwjn@software-hiring-bot.iam.gserviceaccount.com",
+  "client_id": "111705681486581528996",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ifwjn%40software-hiring-bot.iam.gserviceaccount.com"
+}
